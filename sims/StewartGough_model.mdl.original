@@ -45,7 +45,7 @@ __MWOPC_PART_BEGIN__ /metadata/coreProperties.xml
   <dcterms:created xsi:type="dcterms:W3CDTF">2025-11-30T20:21:34Z</dcterms:created>
   <dc:creator>yeira</dc:creator>
   <cp:lastModifiedBy>yeira</cp:lastModifiedBy>
-  <dcterms:modified xsi:type="dcterms:W3CDTF">2025-12-03T18:47:59Z</dcterms:modified>
+  <dcterms:modified xsi:type="dcterms:W3CDTF">2025-12-03T17:29:25Z</dcterms:modified>
   <cp:revision>2.2</cp:revision>
   <cp:version>R2025b</cp:version>
 </cp:coreProperties>
@@ -88,7 +88,6 @@ __MWOPC_PART_BEGIN__ /simulink/_rels/blockdiagram.xml.rels
   <Relationship Id="SimscapeInstrumentationVariables_73" Target="bdmxdata/SimscapeInstrumentationVariables_73.mxarray" Type="http://schemas.mathworks.com/simulinkModel/2015/relationships/modelMxArray"/>
   <Relationship Id="SimscapeInstrumentationVariables_75" Target="bdmxdata/SimscapeInstrumentationVariables_75.mxarray" Type="http://schemas.mathworks.com/simulinkModel/2015/relationships/modelMxArray"/>
   <Relationship Id="SimscapeInstrumentationVariables_80" Target="bdmxdata/SimscapeInstrumentationVariables_80.mxarray" Type="http://schemas.mathworks.com/simulinkModel/2015/relationships/modelMxArray"/>
-  <Relationship Id="SimscapeInstrumentationVariables_862" Target="bdmxdata/SimscapeInstrumentationVariables_862.mxarray" Type="http://schemas.mathworks.com/simulinkModel/2015/relationships/modelMxArray"/>
   <Relationship Id="graphicalInterface" Target="graphicalInterface.json" Type="http://schemas.mathworks.com/simulinkModel/2014/relationships/graphicalInterface"/>
   <Relationship Id="stateflow_machine" Target="stateflow/machine.xml" Type="http://schemas.mathworks.com/simulinkModel/2014/relationships/stateflowMachine"/>
   <Relationship Id="system_root" Target="systems/system_root.xml" Type="http://schemas.mathworks.com/simulink/2010/relationships/system"/>
@@ -313,36 +312,11 @@ AAAAAA4AAAA4AAAABgAAAAgAAAACAAAAAAAAAAUAAAAIAAAAAQAAAAAAAAABAAAAAAAAAAUABAAB
 AAAAAQAAAAAAAAAOAAAAiAAAAAYAAAAIAAAACQAAAAAAAAAFAAAACAAAAAEAAABYAAAAAQAAAAAA
 AAACAAAAWAAAAAABSU0AAAAADgAAAEgAAAAGAAAACAAAAAIAAAAAAAAABQAAAAgAAAABAAAAAQAA
 AAEAAAAAAAAABQAEAAUAAAABAAAABQAAAE1DT1MAAAAADgAAAAAAAAA==
-__MWOPC_PART_BEGIN__ /simulink/bdmxdata/SimscapeInstrumentationVariables_862.mxarray BASE64
-AAFJTQAAAAAOAAAAoAAAAAYAAAAIAAAAEQAAAAAAAAABAAAAAAAAAAEABABNQ09TAQAAACYAAABz
-aW1zY2FwZS5pbnN0cnVtZW50YXRpb24uVmFyaWFibGVUYWJsZQAADgAAAEgAAAAGAAAACAAAAA0A
-AAAAAAAABQAAAAgAAAAGAAAAAQAAAAEAAAAAAAAABgAAABgAAAAAAADdAgAAAAEAAAABAAAAAQAA
-AAEAAAAOAAAAkAQAAAYAAAAIAAAACQAAAAAAAAAFAAAACAAAAAEAAABgBAAAAQAAAAAAAAACAAAA
-YAQAAAABSU0AAAAADgAAAMADAAAGAAAACAAAAAIAAAAAAAAABQAAAAgAAAABAAAAAQAAAAEAAAAA
-AAAABQAEAAUAAAABAAAABQAAAE1DT1MAAAAADgAAAHgDAAAGAAAACAAAABEAAAAAAAAAAQAAAAAA
-AAABAAQATUNPUwEAAAANAAAARmlsZVdyYXBwZXJfXwAAAA4AAAA4AwAABgAAAAgAAAABAAAAAAAA
-AAUAAAAIAAAABgAAAAEAAAABAAAAAAAAAA4AAAAQAQAABgAAAAgAAAAJAAAAAAAAAAUAAAAIAAAA
-4AAAAAEAAAABAAAAAAAAAAIAAADgAAAABAAAAAMAAABYAAAAeAAAAJAAAADAAAAAyAAAAMgAAADI
-AAAA0AAAAGFueQBWYXJpYWJsZVRhYmxlAHNpbXNjYXBlLmluc3RydW1lbnRhdGlvbgAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAADAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAEAAADYAAAAAAAAAAAAAAAOAAAAAAAAAA4AAABIAAAABgAAAAgAAAAEAAAAAAAAAAUAAAAI
-AAAAAQAAABgAAAABAAAAAAAAABAAAAAYAAAAeyJ0YWJsZSI6W10sInZlciI6IjEuMCJ9DgAAAKgA
-AAAGAAAACAAAAAEAAAAAAAAABQAAAAgAAAACAAAAAQAAAAEAAAAAAAAADgAAADgAAAAGAAAACAAA
-AAIAAAAAAAAABQAAAAgAAAABAAAAAAAAAAEAAAAAAAAABQAEAAEAAAABAAAAAAAAAA4AAAA4AAAA
-BgAAAAgAAAACAAAAAAAAAAUAAAAIAAAAAQAAAAAAAAABAAAAAAAAAAUABAABAAAAAQAAAAAAAAAO
-AAAAOAAAAAYAAAAIAAAADAAAAAAAAAAFAAAACAAAAAIAAAABAAAAAQAAAAAAAAAFAAAACAAAAAAA
-AAAAAAAADgAAAKgAAAAGAAAACAAAAAEAAAAAAAAABQAAAAgAAAACAAAAAQAAAAEAAAAAAAAADgAA
-ADgAAAAGAAAACAAAAAIAAAAAAAAABQAAAAgAAAABAAAAAAAAAAEAAAAAAAAABQAEAAEAAAABAAAA
-AAAAAA4AAAA4AAAABgAAAAgAAAACAAAAAAAAAAUAAAAIAAAAAQAAAAAAAAABAAAAAAAAAAUABAAB
-AAAAAQAAAAAAAAAOAAAAiAAAAAYAAAAIAAAACQAAAAAAAAAFAAAACAAAAAEAAABYAAAAAQAAAAAA
-AAACAAAAWAAAAAABSU0AAAAADgAAAEgAAAAGAAAACAAAAAIAAAAAAAAABQAAAAgAAAABAAAAAQAA
-AAEAAAAAAAAABQAEAAUAAAABAAAABQAAAE1DT1MAAAAADgAAAAAAAAA==
 __MWOPC_PART_BEGIN__ /simulink/blockdiagram.xml
 <?xml version="1.0" encoding="utf-8"?>
 <ModelInformation Version="1.0">
   <Model>
-    <P Name="ModelUUID">3470ddca-0dce-4357-bd2c-ed44e399eedb</P>
+    <P Name="ModelUUID">e031f0a7-a8b3-4319-a9b2-d812f2426cbb</P>
     <P Name="LastSavedArchitecture">win64</P>
     <UserParameters>
       <P Name="PhysicalModelingChecksum">954140149</P>
@@ -395,7 +369,7 @@ __MWOPC_PART_BEGIN__ /simulink/configSet0.xml
     <Array PropName="Components" Type="Simulink.ConfigComponent" Dimension="10*1">
       <Object ObjectID="2" ClassName="Simulink.SolverCC">
         <P Name="StartTime" Class="char">0.0</P>
-        <P Name="StopTime" Class="char">5</P>
+        <P Name="StopTime" Class="char">10.0</P>
         <P Name="AbsTol" Class="char">auto</P>
         <P Name="AutoScaleAbsTol" Class="char">on</P>
         <P Name="FixedStep" Class="char">auto</P>
@@ -1274,12 +1248,6 @@ __MWOPC_PART_BEGIN__ /simulink/graphicalInterface.json
                 "Type":"LIBRARY_BLOCK"
             },
             {
-                "Path":"$bdroot\/Subsystem\/Leg 1 SG\/Brick Solid",
-                "Reference":"sm_lib\/Body Elements\/Brick Solid",
-                "SID":"862",
-                "Type":"LIBRARY_BLOCK"
-            },
-            {
                 "Path":"$bdroot\/Subsystem\/Leg 1 SG\/IMU",
                 "Reference":"mspsensorlib\/IMU",
                 "SID":"1",
@@ -1729,6 +1697,7 @@ __MWOPC_PART_BEGIN__ /simulink/systems/system_557.xml
     <InstanceData>
       <P Name="LogSimulationData">off</P>
       <P Name="SimscapeInstrumentationLogging">off</P>
+      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_80"/>
       <P Name="ExtrusionType">Regular</P>
       <P Name="PolygonNumSides">6</P>
       <P Name="PolygonOuterRadius">5</P>
@@ -1776,7 +1745,6 @@ __MWOPC_PART_BEGIN__ /simulink/systems/system_557.xml
       <P Name="GraphicShininess_conf">compiletime</P>
       <P Name="DoExposeReferenceFrame">on</P>
       <P Name="SerializedFrames">&lt;Frames&gt;&lt;Frame&gt;&lt;Id&gt;Frame1&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F1&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 6&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;Frame&gt;&lt;Id&gt;Frame2&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F2&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 1&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;Frame&gt;&lt;Id&gt;Frame3&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F3&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 2&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;Frame&gt;&lt;Id&gt;Frame4&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F4&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 3&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;Frame&gt;&lt;Id&gt;Frame5&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F5&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 4&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;Frame&gt;&lt;Id&gt;Frame6&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F6&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 5&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;/Frames&gt;</P>
-      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_80"/>
     </InstanceData>
   </Block>
   <Block BlockType="SubSystem" Name="Leg 1 SG" SID="59">
@@ -1799,13 +1767,13 @@ Configuration</P>
     <InstanceData>
       <P Name="LogSimulationData">off</P>
       <P Name="SimscapeInstrumentationLogging">off</P>
+      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_72"/>
       <P Name="UniformGravity">Constant</P>
       <P Name="GravityVector">[0 0 -9.80665]</P>
       <P Name="GravityVector_conf">compiletime</P>
       <P Name="GravityVectorUnits">m/s^2</P>
       <P Name="LinearizationDelta">0.001</P>
       <P Name="JointModeTransitionNonlinearIterations">2</P>
-      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_72"/>
     </InstanceData>
   </Block>
   <Block BlockType="Reference" Name="Platform" SID="75">
@@ -1819,6 +1787,7 @@ Configuration</P>
     <InstanceData>
       <P Name="LogSimulationData">off</P>
       <P Name="SimscapeInstrumentationLogging">off</P>
+      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_75"/>
       <P Name="ExtrusionType">Regular</P>
       <P Name="PolygonNumSides">6</P>
       <P Name="PolygonOuterRadius">5</P>
@@ -1866,7 +1835,6 @@ Configuration</P>
       <P Name="GraphicShininess_conf">compiletime</P>
       <P Name="DoExposeReferenceFrame">off</P>
       <P Name="SerializedFrames">&lt;Frames&gt;&lt;Frame&gt;&lt;Id&gt;Frame1&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F1&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 6&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;Frame&gt;&lt;Id&gt;Frame2&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F2&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 1&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;Frame&gt;&lt;Id&gt;Frame3&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F3&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 2&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;Frame&gt;&lt;Id&gt;Frame4&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F4&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 3&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;Frame&gt;&lt;Id&gt;Frame5&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F5&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 4&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;Frame&gt;&lt;Id&gt;Frame6&lt;/Id&gt;&lt;Value&gt;&lt;Name&gt;F6&lt;/Name&gt;&lt;Origin&gt;&lt;Source&gt;GeometricFeature&lt;/Source&gt;&lt;FeatureName&gt;bottom point 5&lt;/FeatureName&gt;&lt;/Origin&gt;&lt;PrimaryAxis&gt;&lt;DefinedDirection&gt;+Z&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+Z&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/PrimaryAxis&gt;&lt;SecondaryAxis&gt;&lt;DefinedDirection&gt;+X&lt;/DefinedDirection&gt;&lt;Source&gt;ReferenceFrame&lt;/Source&gt;&lt;SourceDirection&gt;+X&lt;/SourceDirection&gt;&lt;FeatureName&gt;&lt;/FeatureName&gt;&lt;/SecondaryAxis&gt;&lt;/Value&gt;&lt;/Frame&gt;&lt;/Frames&gt;</P>
-      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_75"/>
     </InstanceData>
   </Block>
   <Block BlockType="Reference" Name="Solver&#xA;Configuration" SID="525">
@@ -2220,7 +2188,8 @@ __MWOPC_PART_BEGIN__ /simulink/systems/system_59.xml
 <?xml version="1.0" encoding="utf-8"?>
 <System>
   <P Name="Location">[-1, -7, 1537, 817]</P>
-  <P Name="ZoomFactor">60</P>
+  <P Name="Open">on</P>
+  <P Name="ZoomFactor">150</P>
   <Block BlockType="Sum" Name="Add" SID="14">
     <PortCounts in="2" out="1"/>
     <P Name="Position">[520, 332, 550, 363]</P>
@@ -2267,60 +2236,6 @@ White Noise</P>
       <P Name="Ts">0.000001</P>
       <P Name="seed">[23621]</P>
       <P Name="VectorParams1D">on</P>
-    </InstanceData>
-  </Block>
-  <Block BlockType="Reference" Name="Brick Solid" SID="862">
-    <PortCounts rconn="1"/>
-    <P Name="Position">[-15, 465, 25, 505]</P>
-    <P Name="ZOrder">5896</P>
-    <P Name="BackgroundColor">automatic</P>
-    <P Name="LibraryVersion">25.21</P>
-    <P Name="SourceBlock">sm_lib/Body Elements/Brick Solid</P>
-    <P Name="SourceType">Brick Solid</P>
-    <InstanceData>
-      <P Name="LogSimulationData">off</P>
-      <P Name="SimscapeInstrumentationLogging">off</P>
-      <P Name="BrickDimensions">[1 1 1]</P>
-      <P Name="BrickDimensions_conf">compiletime</P>
-      <P Name="BrickDimensionsUnits">m</P>
-      <P Name="ExportEntireGeometry">off</P>
-      <P Name="InertiaType">CalculateFromGeometry</P>
-      <P Name="BasedOnType">Density</P>
-      <P Name="Density">1000</P>
-      <P Name="Density_conf">compiletime</P>
-      <P Name="DensityUnits">kg/m^3</P>
-      <P Name="Mass">1</P>
-      <P Name="Mass_conf">compiletime</P>
-      <P Name="MassUnits">kg</P>
-      <P Name="CenterOfMass">[0 0 0]</P>
-      <P Name="CenterOfMass_conf">compiletime</P>
-      <P Name="CenterOfMassUnits">m</P>
-      <P Name="MomentsOfInertia">[1 1 1]</P>
-      <P Name="MomentsOfInertia_conf">compiletime</P>
-      <P Name="MomentsOfInertiaUnits">kg*m^2</P>
-      <P Name="ProductsOfInertia">[0 0 0]</P>
-      <P Name="ProductsOfInertia_conf">compiletime</P>
-      <P Name="ProductsOfInertiaUnits">kg*m^2</P>
-      <P Name="GraphicType">FromGeometry</P>
-      <P Name="MarkerShape">Sphere</P>
-      <P Name="MarkerSize">10</P>
-      <P Name="MarkerSize_conf">compiletime</P>
-      <P Name="GraphicVisPropType">SimpleVisualProperties</P>
-      <P Name="GraphicDiffuseColor">[0.5 0.5 0.5]</P>
-      <P Name="GraphicDiffuseColor_conf">compiletime</P>
-      <P Name="GraphicOpacity">1</P>
-      <P Name="GraphicOpacity_conf">compiletime</P>
-      <P Name="GraphicSpecularColor">[0.5 0.5 0.5 1.0]</P>
-      <P Name="GraphicSpecularColor_conf">compiletime</P>
-      <P Name="GraphicAmbientColor">[0.15 0.15 0.15 1.0]</P>
-      <P Name="GraphicAmbientColor_conf">compiletime</P>
-      <P Name="GraphicEmissiveColor">[0.0 0.0 0.0 1.0]</P>
-      <P Name="GraphicEmissiveColor_conf">compiletime</P>
-      <P Name="GraphicShininess">75</P>
-      <P Name="GraphicShininess_conf">compiletime</P>
-      <P Name="DoExposeReferenceFrame">on</P>
-      <P Name="SerializedFrames">&lt;Frames/&gt;</P>
-      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_862"/>
     </InstanceData>
   </Block>
   <Block BlockType="Constant" Name="Constant" SID="19">
@@ -2698,6 +2613,7 @@ Joint</P>
     <InstanceData>
       <P Name="LogSimulationData">off</P>
       <P Name="SimscapeInstrumentationLogging">off</P>
+      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_4"/>
       <P Name="JointMode">Normal</P>
       <P Name="CompositeWrenchDir">FollowerOnBase</P>
       <P Name="CompositeWrenchFrame">BaseFrame</P>
@@ -2758,7 +2674,6 @@ Joint</P>
       <P Name="SenseTorqueForce">off</P>
       <P Name="SenseLowerLimitTorqueForce">off</P>
       <P Name="SenseUpperLimitTorqueForce">off</P>
-      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_4"/>
     </InstanceData>
   </Block>
   <Block BlockType="Reference" Name="Simulink-PS&#xA;Converter" SID="852">
@@ -2813,6 +2728,7 @@ Joint</P>
     <InstanceData>
       <P Name="LogSimulationData">off</P>
       <P Name="SimscapeInstrumentationLogging">off</P>
+      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_362"/>
       <P Name="JointMode">Normal</P>
       <P Name="CompositeWrenchDir">FollowerOnBase</P>
       <P Name="CompositeWrenchFrame">BaseFrame</P>
@@ -2918,7 +2834,6 @@ Joint</P>
       <P Name="SenseLowerLimitTorqueMag">off</P>
       <P Name="SenseUpperLimitTorqueMag">off</P>
       <P Name="SensingFrame">BaseFrame</P>
-      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_362"/>
     </InstanceData>
   </Block>
   <Block BlockType="Reference" Name="Spherical&#xA;Joint1" SID="363">
@@ -2934,6 +2849,7 @@ Joint</P>
     <InstanceData>
       <P Name="LogSimulationData">off</P>
       <P Name="SimscapeInstrumentationLogging">off</P>
+      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_363"/>
       <P Name="JointMode">Normal</P>
       <P Name="CompositeWrenchDir">FollowerOnBase</P>
       <P Name="CompositeWrenchFrame">BaseFrame</P>
@@ -3039,7 +2955,6 @@ Joint</P>
       <P Name="SenseLowerLimitTorqueMag">off</P>
       <P Name="SenseUpperLimitTorqueMag">off</P>
       <P Name="SensingFrame">BaseFrame</P>
-      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_363"/>
     </InstanceData>
   </Block>
   <Block BlockType="Reference" Name="Transform&#xA;Sensor" SID="13">
@@ -3056,6 +2971,7 @@ Sensor</P>
     <InstanceData>
       <P Name="LogSimulationData">off</P>
       <P Name="SimscapeInstrumentationLogging">off</P>
+      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_13"/>
       <P Name="MeasurementFrame">World</P>
       <P Name="RotationSequence">XYX</P>
       <P Name="SenseAngle">off</P>
@@ -3100,7 +3016,6 @@ Sensor</P>
       <P Name="SenseAzimDDot">off</P>
       <P Name="SenseDistDDot">off</P>
       <P Name="SenseIncDDot">off</P>
-      <P Name="SimscapeInstrumentationVariables" Ref="bdmxdata:SimscapeInstrumentationVariables_13"/>
     </InstanceData>
   </Block>
   <Block BlockType="Math" Name="Transpose" SID="27">
@@ -3244,6 +3159,12 @@ Sensor</P>
     <P Name="Src">14#out:1</P>
     <P Name="Points">[8, 0; 0, -30]</P>
     <P Name="Dst">29#in:3</P>
+  </Line>
+  <Line LineType="Connection">
+    <P Name="ZOrder">170</P>
+    <P Name="Src">363#lconn:1</P>
+    <P Name="Points">[0, -63; 89, 0; 0, -247]</P>
+    <P Name="Dst">4#rconn:1</P>
   </Line>
   <Line LineType="Connection">
     <P Name="ZOrder">45</P>
@@ -3407,19 +3328,6 @@ Sensor</P>
     <P Name="Src">861#out:1</P>
     <P Name="Points">[42, 0; 0, -190]</P>
     <P Name="Dst">1#in:1</P>
-  </Line>
-  <Line LineType="Connection">
-    <P Name="ZOrder">274</P>
-    <P Name="Src">363#lconn:1</P>
-    <P Name="Points">[-9, 0; 0, -53; 98, 0; 0, -112]</P>
-    <Branch ConnectType="DEST_SRC">
-      <P Name="Points">[0, -145]</P>
-      <P Name="Dst">4#rconn:1</P>
-    </Branch>
-    <Branch ConnectType="DEST_DEST">
-      <P Name="Src">862#rconn:1</P>
-      <P Name="Points">[69, 0]</P>
-    </Branch>
   </Line>
 </System>
 
@@ -3815,9 +3723,10 @@ __MWOPC_PART_BEGIN__ /simulink/systems/system_root.xml
 <System>
   <P Name="Location">[-1, -7, 1537, 817]</P>
   <P Name="SystemRect">[-1244.000000, -832.000000, 1388.000000, 1666.000000]</P>
-  <P Name="ZoomFactor">62</P>
+  <P Name="Open">on</P>
+  <P Name="ZoomFactor">60</P>
   <P Name="ReportName">simulink-default.rpt</P>
-  <P Name="SIDHighWatermark">862</P>
+  <P Name="SIDHighWatermark">861</P>
   <Block BlockType="Inport" Name="In1" SID="293">
     <P Name="Position">[-980, 233, -950, 247]</P>
     <P Name="ZOrder">5774</P>
@@ -4016,10 +3925,10 @@ __MWOPC_PART_BEGIN__ /simulink/windowsInfo.xml
           <P Name="IsTabbed" Class="logical">1</P>
           <P Name="ViewObjType" Class="char">SimulinkTopLevel</P>
           <P Name="LoadSaveID" Class="char">0</P>
-          <P Name="Extents" Class="double">[1875.0, 741.0]</P>
-          <P Name="ZoomFactor" Class="double">0.62257885998893192</P>
-          <P Name="Offset" Class="double">[-1343.9643792406605, -322.80967032062063]</P>
-          <P Name="SceneRectInView" Class="double">[-1343.9643792406605, -322.80967032062063, 2409.3333333333335, 952.16853333333336]</P>
+          <P Name="Extents" Class="double">[1807.0, 477.0]</P>
+          <P Name="ZoomFactor" Class="double">0.6</P>
+          <P Name="Offset" Class="double">[-1343.9643792406605, -164.72540365395398]</P>
+          <P Name="SceneRectInView" Class="double">[-1343.9643792406605, -164.72540365395398, 2409.3333333333335, 636.0]</P>
         </Object>
         <Object ObjectID="6">
           <P Name="IsActive" Class="logical">1</P>
@@ -4027,9 +3936,9 @@ __MWOPC_PART_BEGIN__ /simulink/windowsInfo.xml
           <P Name="ViewObjType" Class="char">SimulinkSubsys</P>
           <P Name="LoadSaveID" Class="char">59</P>
           <P Name="Extents" Class="double">[1807.0, 477.0]</P>
-          <P Name="ZoomFactor" Class="double">0.6</P>
-          <P Name="Offset" Class="double">[-773.69414150643081, 77.604510746097858]</P>
-          <P Name="SceneRectInView" Class="double">[-773.69414150643081, 77.604510746097858, 2409.3333333333335, 636.0]</P>
+          <P Name="ZoomFactor" Class="double">1.4999999999999998</P>
+          <P Name="Offset" Class="double">[-355.71366226889154, 488.46035766023766]</P>
+          <P Name="SceneRectInView" Class="double">[-355.71366226889154, 488.46035766023766, 963.73333333333346, 254.40000000000003]</P>
         </Object>
         <Object ObjectID="7">
           <P Name="IsActive" Class="logical">0</P>
@@ -4223,7 +4132,7 @@ __MWOPC_PART_BEGIN__ /simulink/windowsInfo.xml
       <Array PropName="PersistedApps" Type="Cell" Dimension="0*1"/>
       <P Name="WindowUuid" Class="char">3576d009-6ffe-469f-a5fc-43b92f6ac28e</P>
     </Object>
-    <P Name="BDUuid" Class="char">e097fd7c-29b5-47ae-abe4-2ff284b0e292</P>
+    <P Name="BDUuid" Class="char">99ef54c9-5aeb-4354-9c65-fd1425978466</P>
   </Object>
 </WindowsInfo>
 
